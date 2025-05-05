@@ -1,4 +1,4 @@
-package com.example.domain.order.oderItem;
+package com.example.domain.order.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;

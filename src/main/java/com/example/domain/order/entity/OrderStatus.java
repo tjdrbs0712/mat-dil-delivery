@@ -1,4 +1,4 @@
-package com.example.domain.order;
+package com.example.domain.order.entity;
 
 public enum OrderStatus {
     CREATED,      // 주문 생성됨

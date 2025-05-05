@@ -1,7 +1,5 @@
 package com.example.domain.order.entity;
 
-import com.example.domain.order.OrderStatus;
-import com.example.domain.order.oderItem.OrderItem;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Builder;
